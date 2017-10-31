@@ -1,6 +1,6 @@
 {
   "name": "generator-hostaworld-koa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Koa applicatiion starter template generator",
   "homepage": "https://github.com/t83714/generator-hostaworld-koa#readme",
   "author": {
